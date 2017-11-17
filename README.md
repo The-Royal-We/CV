@@ -34,5 +34,5 @@ You can find out more about it here: [LaTeX Project](http://www.latex-project.or
 [Source Sans Pro](https://github.com/adobe-fonts/source-sans-pro) is a set of OpenType fonts that have been designed to work well in user interface (UI) environments.
 
 
-**__Note:__ This CV has been based off of the code of [**Awesome CV**](https://github.com/posquit0/Awesome-CV). Go check them out!!!
+**__Note:__ This CV has been based off of the code of [**Awesome CV**](https://github.com/posquit0/Awesome-CV). Go check them out!!!**
 
