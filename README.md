@@ -1,6 +1,6 @@
 # My CV
 
-##TODO
+## TODO
 Get pdf built occasionally and link here
 
 ## How to Build 
